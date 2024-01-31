@@ -159,4 +159,8 @@ Return the final sampled dataset, containing representative data points.
   }
 ```
 ## Screenshots
-![Screenshot (199)](https://github.com/vinamrajain19/Dashboard-UI/assets/91343225/1aed9240-eb36-4a53-8734-930980a2cd98)
+
+![Screenshot (200)](https://github.com/vinamrajain19/Dashboard-UI/assets/91343225/566365c8-c791-4535-be92-8cb633c59564)
+
+
+![Screenshot (201)](https://github.com/vinamrajain19/Dashboard-UI/assets/91343225/71cc6eaf-3c64-4e67-ad8f-69514bd383c4)
